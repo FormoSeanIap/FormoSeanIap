@@ -18,4 +18,4 @@
 
 - GitLab CI/CD
 
-- Networking
+- Kubernetes
